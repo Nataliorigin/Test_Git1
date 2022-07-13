@@ -6,6 +6,8 @@
 
 > git init
 
+Чтобы выделить ненумерованный список используйте звездочку.
+
 
 ![ninzya](../Test_Git1/img/Y1tRaLP0W1R3zzVj3M0ZCsQDxYQxHhj_C4S0XCnTjo2mnrBrr-67cZw5BR3PEcx1FrV97mtV.jpg)
 
